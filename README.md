@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # __Facyn__
 
 > - [📸] Instagram: [ir](https://facynx.xyz/social/instagram)
