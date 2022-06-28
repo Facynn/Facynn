@@ -1,16 +1,22 @@
 ### Hi there 👋
 
-<!--
-**Facynn/Facynn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# __Facyn__
 
-Here are some ideas to get you started:
+> - [📸] Instagram: [ir](https://facynx.xyz/social/instagram)
+> - [🌐] Web: [ir](https://facyn.xyz)
+> - [📄] Discord: [ir](https://facyn.xyz/social/panasfrescos)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who is "Facyn"? ❓
+
+**_¡Conoce sobre mi!_**
+
+> - [Conocer](https://facyn.xyz/#aboutme)
+
+## Do you want to have fun? 😁
+
+**_Implemente unos juegos que pueden hacerte alegrar el día_**
+
+> - [Juegos](https://facyn.xyz/secciones/juegos)
+>    - [Facynle](https://facyn.xyz/secciones/juegos/facynle)
+>    - [Snake](https://facyn.xyz/secciones/juegos/snake)
+>    - [Ahorcado](https://facyn.xyz/secciones/juegos/ahorcado)
