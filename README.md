@@ -1,21 +1,19 @@
 # __Facyn__
 
-> - [📸] Instagram: [ir](https://facyn.xyz/social/instagram)
-> - [🌐] Web: [ir](https://facyn.xyz)
-> - [📄] Discord: [ir](https://facyn.xyz/social/panasfrescos)
+> - [📸] Instagram: [ir](https://www.instagram.com/facynnn/)
+> - [🌐] Web: [ir](https://www.facyn.xyz)
 
 ## ❓ ¿Quién es "Facyn"? | Who is "Facyn"?
 
 **_¡Conoce sobre mi!_**
 
-> - [Conocer](https://facyn.xyz/#aboutme)
+> - [Conocer](https://www.facyn.xyz)
 
-## 📖 ¿Te gusta leer? | Do you like to read? 
+**_Habilidades_**
 
-> Publico blogs en mi página...
+```json
+{
+  habilidades: ["HTML", "CSS", "JAVASCRIPT", "REACT", "NODEJS"]
+}
 
-`A continuación te dejo unos blogs para que leas.`
-
-> - Blogs
->   - [¡La apetura de blogs!](https://facyn.xyz/blogs/62c23ffaee037f8943871c45)
->   - [Tener una mejor estética en VISUAL STUDIO CODE](https://facyn.xyz/blogs/62c711c3a20f06fec48ad54f)
+***
