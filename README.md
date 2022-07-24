@@ -11,7 +11,7 @@
 
 **_Habilidades_**
 
-```json
+```js
 {
   habilidades: ["HTML", "CSS", "JAVASCRIPT", "REACT", "NODEJS"]
 }
